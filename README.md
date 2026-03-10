@@ -13,3 +13,6 @@ chmod +x pipeline.sh
 bash pipeline.sh
 
 ```
+
+Логи по каждому этапу пишутся в директорию `./logs` 
+
