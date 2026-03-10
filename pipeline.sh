@@ -9,6 +9,7 @@ else
     mkdir $DIR
 fi
 
+echo "Logs will be saved to $DIR"
 
 echo "Run data_creation.py"
 python data_creation.py --save_dir data 
